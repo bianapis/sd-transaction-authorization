@@ -1,0 +1,38 @@
+{
+  "customerContactRecordAuthenticationLevel" : "Level 3",
+  "channelActivityHistoryReportFromTo" : "01/01/2018 - 01/01/2019",
+  "contactDialogueRecordCustomerReference" : "REF1234",
+  "transactionAuthorizationReference" : "REF1234",
+  "transactionAuthorizationGuidance" : "System error please try again.",
+  "productReference" : "REF1234",
+  "customerContactRecordContactDevice" : "Cell phone",
+  "productInstanceReference" : "REF1234",
+  "proposedTransactionType" : "balance report",
+  "contactDialogueRecordEmployeeReference" : "REF1234",
+  "contactDialogueRecordServicingPositionReference" : "REF1234",
+  "contactDialogueRecordContactDialogueLogReference" : "REF4573",
+  "customerReference" : "REF1234",
+  "channelActivityHistoryReport" : "{}",
+  "contactDialogueRecordSessionMechanism" : "web",
+  "customerContactRecordCustomerReference" : "REF1234",
+  "customerContactRecordMenuSelection" : "New transaction",
+  "customerContactRecordContactDialogueRecord" : "{}",
+  "channelActivityHistoryReportReference" : "REF2456",
+  "customerContactResult" : "success",
+  "customerContactRecordReference" : "REF1234",
+  "customerContactRecord" : "{}",
+  "proposedTransactionValue" : "7653",
+  "contactDialogueRecordContactDialogueType" : "verified customer",
+  "contactDialogueRecordContactDialogueScript" : "contactDialogueRecordContactDialogueScript",
+  "transactionAuthorizationResult" : "{}",
+  "contactDialogueRecordSessionStartEndTime" : {
+    "fromDate" : "09-01-2018 07:30:00 EST",
+    "toDate" : "09-02-2018 19:30:00 EST"
+  },
+  "contactDialogueRecordContactDialogueLog" : "contactDialogueRecordContactDialogueLog",
+  "customerContactActivityRecord" : "{}",
+  "customerContactFromTo" : {
+    "fromDate" : "09-01-2018 07:30:00 EST",
+    "toDate" : "09-02-2018 19:30:00 EST"
+  }
+}
